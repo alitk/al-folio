@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="http://www.ece.vt.edu" target = "_blank">Electrical and Computer Engineering Department</a>• <a href="http://www.cs.vt.edu">Computer Science Department</a>• <a href="http://www.vt.edu">Virginia Tech University</a>
 
 profile:
   align: right

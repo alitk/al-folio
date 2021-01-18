@@ -12,3 +12,15 @@ $max-content-width: {{site.max_width}};
   "layout",
   "base"
 ;
+
+
+
+
+.my-desc a {
+  color: inherit;
+  font-size: 0.875rem;
+}
+
+a, table.table a { color: #cf0000; }
+a:hover, table.table a:hover { color: #cf0000; text-decoration: underline; }
+a:hover:after, table.table a:hover:after { width: 100%; }
