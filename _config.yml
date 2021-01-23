@@ -132,8 +132,8 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name:  Taleb Zadeh Kasgari
+  first_name: [Ali, A.]
 
   style: apa
   locale: en
